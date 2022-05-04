@@ -3,7 +3,7 @@ Exercice recrutement 2022 pour une alternance en développement web
 
 # Petit exercice pour vérifier vos compétences en php/sql/html/css
 
-## Objectif : Mise en place d'une architecture MVC en utilisant Git à chaque étape du développement (grandes étapes, ex : "mise en place du routeur", "creation controleur" ...  )
+```Objectif : Mise en place d'une architecture MVC en utilisant Git à chaque étape du développement (grandes étapes, ex : "mise en place du routeur", "creation controleur" ...  )```
 
 ## Pages à créer :
 
