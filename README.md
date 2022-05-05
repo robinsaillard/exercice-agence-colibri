@@ -13,7 +13,7 @@ Exercice recrutement 2022 pour une alternance en développement web
     
 * Inscription et Connexion
 
-* Conctact
+* Contact
     - formulaire contact (nom, prenom, adresse mail, sujet, message )
     - sauvegarde en bdd des contacts
 
